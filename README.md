@@ -1,8 +1,7 @@
 [README.md](https://github.com/user-attachments/files/32137477/README.md)
 # Elite2K
 
-
-Elite2K takes the *idea* behind [`OpenV2K`](https://github.com/OpenV2K) — turn an
+turn an
 audio waveform into a train of short RF pulses whose density carries the
 original information — and rebuilds it as a modern, modular instrument: a
 pure-NumPy streaming DSP core, a 17-block reorderable chain, six output
