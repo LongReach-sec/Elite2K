@@ -1,8 +1,6 @@
 [README.md](https://github.com/user-attachments/files/32137477/README.md)
 # Elite2K
 
-**A from-scratch, dependency-light GUI successor to the OpenV2K zero-crossing
-pulse RF transmitter family.**
 
 Elite2K takes the *idea* behind [`OpenV2K`](https://github.com/OpenV2K) — turn an
 audio waveform into a train of short RF pulses whose density carries the
